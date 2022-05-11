@@ -1,0 +1,31 @@
+{
+  "addressBook": [
+    {
+      "fullName": "Saranya",
+      "address": "sss, rer, ttt",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "phoneNumber": "+919687683467",
+      "zipCode": "535111",
+      "id": 3
+    },
+    {
+      "fullName": "Harsha",
+      "address": "Bangalore",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "phoneNumber": "9871344234",
+      "zipCode": "505134",
+      "id": 4
+    },
+    {
+      "fullName": "Harsha",
+      "address": "Bangalore",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "phoneNumber": "+919875642317",
+      "zipCode": "505134",
+      "id": 5
+    }
+  ]
+}
